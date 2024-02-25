@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/User/Desktop/git_proj/t_json/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/value.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\value.dir\\examples\\value.cpp.obj -c D:\\User\\Desktop\\git_proj\\t_json\\examples\\value.cpp",
+  "file": "D:/User/Desktop/git_proj/t_json/examples/value.cpp",
+  "output": "CMakeFiles/value.dir/examples/value.cpp.obj"
+},
+{
+  "directory": "D:/User/Desktop/git_proj/t_json/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/array.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\array.dir\\examples\\array.cpp.obj -c D:\\User\\Desktop\\git_proj\\t_json\\examples\\array.cpp",
+  "file": "D:/User/Desktop/git_proj/t_json/examples/array.cpp",
+  "output": "CMakeFiles/array.dir/examples/array.cpp.obj"
+},
+{
+  "directory": "D:/User/Desktop/git_proj/t_json/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/object.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\object.dir\\examples\\object.cpp.obj -c D:\\User\\Desktop\\git_proj\\t_json\\examples\\object.cpp",
+  "file": "D:/User/Desktop/git_proj/t_json/examples/object.cpp",
+  "output": "CMakeFiles/object.dir/examples/object.cpp.obj"
+}
+]
