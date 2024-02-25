@@ -22,8 +22,6 @@ int main(int, char**){
     Object field_3 = a["field_3"].Cast<Object>();
     Boolean field_4 = a["field_4"].Cast<Boolean>();
     String field_5 = a["field_5"].Cast<String>();
-    
-
 
     // caompare
     Value _1 = 10;

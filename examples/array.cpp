@@ -27,11 +27,7 @@ int main(int, char**){
     // erase
     a.Erase(0);
 
-
     std::cout << a.Stringfy()<<'\n';
-
-
-
 
     // for each
     Array& arr = a.Cast<Array>();
