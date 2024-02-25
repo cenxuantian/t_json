@@ -1981,8 +1981,8 @@ template<typename _Struct_T> bool Structify(_Struct_T& __out_pStruct__, Value& _
 }} // namespace tcx
 
 // Macros
-#define __T_C_X_JSON_STR(str)       tcx::json::Parse<const String&, true>(str)
-#define __T_C_X_INLINE_JSON(...)    tcx::json::Parse<const String&, true>(#__VA_ARGS__)
+#define __T_C_X_JSON_STR(str)       tcx::json::Parse<const tcx::json::String&, true>(str)
+#define __T_C_X_INLINE_JSON(...)    tcx::json::Parse<const tcx::json::String&, true>(#__VA_ARGS__)
 
 #define __TCX_ENUM2JSON_DEF_BEGIN(_Enum_Type)\
     template<> tcx::json::Value tcx::json::Parse<_Enum_Type>(_Enum_Type __enum__){switch (__enum__){
